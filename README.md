@@ -125,21 +125,21 @@ is a card that will track dead links on your website. It’s a great way to make
 ## Following are the screenshort for reference 
 
 ### 1 . User Requests / Slow Queries / Cache
- ![User Requests / Slow Queries / Cache](image-4.png)  
+ ![User Requests / Slow Queries / Cache](<Screenshot 2024-03-14 165738.png>)
  
 ### 2 . Insights Database
 ![Insights Database](<imgpsh_fullsize_anim (9).jpeg>)
 
 ### 3 . Slow Requests
-![Slow Requests](image-2.png)
+![Slow Requests](<Screenshot 2024-03-14 170213.png>)
 
 ### 4 . Slow Outgoing Requests
-![Slow Outgoing Requests](image-5.png)
+![Slow Outgoing Requests](<Screenshot 2024-03-14 170333.png>)
 
 ### 5 . Exceptions
 ![Exceptions](image-6.png)
 
-### 6 . Slow Jobs
+### 6 .Slow Jobs
 ![Slow Jobs](image.png)
 
 

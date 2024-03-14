@@ -46,7 +46,7 @@ is a card that will track dead links on your website. It’s a great way to make
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/yourproject.git
+   https://github.com/asifmulla7/Custom-Laravel-Pulse-Cards.git
     ```
 
 2. Install PHP dependencies:
